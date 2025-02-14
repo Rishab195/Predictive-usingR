@@ -4,14 +4,7 @@
 🌟 Overview
 This R Shiny app allows users to upload datasets, analyze trends, visualize key metrics, and generate insights with interactive charts, tables, and filters. Designed for flexibility, it supports multiple data formats and provides a seamless user experience.
 
-🖼 App Snapshot
-Add a screenshot of your app to showcase its UI.
-Save the image in your GitHub repository and reference it in your README.
-
-markdown
-Copy
-Edit
-![App Screenshot](path/to/your-screenshot.png)
+![App Screenshot][(path/to/your-screenshot.png)](https://github.com/Rishab195/Predictive-usingR/blob/main/DahsboardIMG.png)
 Replace "path/to/your-screenshot.png" with the actual file path in your repository.
 
 🔥 Features
@@ -29,7 +22,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-user/your-repo-name.git](https://github.com/Rishab195/Predictive-usingR/edit/main)
 Open RStudio and install required packages (if not installed):
 r
 Copy
