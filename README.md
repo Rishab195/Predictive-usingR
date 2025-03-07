@@ -4,9 +4,6 @@
 🌟 Overview
 This R Shiny app allows users to upload datasets, analyze trends, visualize key metrics, and generate insights with interactive charts, tables, and filters. Designed for flexibility, it supports multiple data formats and provides a seamless user experience.
 
-![App Screenshot][(path/to/your-screenshot.png)](https://github.com/Rishab195/Predictive-usingR/blob/main/DahsboardIMG.png)
-Replace "path/to/your-screenshot.png" with the actual file path in your repository.
-
 🔥 Features
 ✅ Upload & Analyze Data – Easily upload CSV files and get instant analysis.
 ✅ Interactive Visualizations – View charts, tables, and dynamic insights.
