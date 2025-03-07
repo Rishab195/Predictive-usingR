@@ -19,7 +19,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone [https://github.com/your-user/your-repo-name.git](https://github.com/Rishab195/Predictive-usingR/edit/main)
+git clone [(https://github.com/Rishab195/Predictive-usingR/edit/main)]
 Open RStudio and install required packages (if not installed):
 r
 Copy
